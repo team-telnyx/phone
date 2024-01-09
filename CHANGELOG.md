@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.5.9 - 2024-01-09
+
+  * Fixed Palestine country code
+
 ## v0.5.8 - 2023-09-21
 
   * Fix missing AU support
