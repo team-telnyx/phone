@@ -5,8 +5,8 @@ defmodule Phone.PS do
 
   def regex, do: ~r/^(970)()(.{8,9})/
   def country, do: "Palestine"
-  def a2, do: "DJ"
-  def a3, do: "DJI"
+  def a2, do: "PS"
+  def a3, do: "PSE"
 
   matcher(:regex, ["970"])
 end
